@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    
+    <script src="https://resources.peta.org/googleAnalytics/global/ga_constants.js"></script>
+    <script src="https://resources.peta.org/googleAnalytics/internalApplications/support/gaBase.js"></script>
+
+    <script>
+function sendEventTrimmed(category, action, label, interactive) {
+    
+    var isInteractive = true;
+
+    if (interactive == null) {
+      // All form initiated events should be classified as non-interaction
+      if ( action.toLowerCase() == "form initiated" || action.toLowerCase() == "form initiation" ) {
+        isInteractive = false;
+      } else if ( category.toLowerCase() == "splash page" && (action.toLowerCase() == "viewed" || action.toLowerCase() == "closed") ) {
+        isInteractive = false;
+      }
+    } else {
+      isInteractive = interactive;
+    }
+
+	
+    if (isUniversalAnalytics()) {
+    
+        if(isInteractive == true){
+			ga('send', 'event', category, action, label);
+		}
+		else{
+			ga('send', 'event', category, action, label, {nonInteraction: true});	
+		}
+    }
+    else {
+        //_gaq.push(['_trackEvent', category, action, label]);
+    }
+}
+
+
+    </script>
+
+</head>
+<body>
+    <script>
+        sendEventTrimmed('IGNORE', 'IGNORE', 'IGNORE  ')
+    </script>
+</body>
+</html>
