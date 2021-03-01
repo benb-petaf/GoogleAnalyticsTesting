@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<ga-categories>
+	<item>
+		<categoryName>Audio Categories</categoryName>
+		<categoryValue></categoryValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<categoryName>Audio</categoryName>
+				<categoryValue>petaGA_AudioCategory_Audio</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<categoryName>E-Card Categories</categoryName>
+		<categoryValue></categoryValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<categoryName>E-Card</categoryName>
+				<categoryValue>petaGA_eCardCategory_eCard</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<categoryName>Form Categories</categoryName>
+		<categoryValue></categoryValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<categoryName>Activist Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Activist</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Comment Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Comment</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Contest Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Contest</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Donation Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Donate</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>E-Card Form</categoryName>
+				<categoryValue>petaGA_FormCategory_eCard</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>E-News Form</categoryName>
+				<categoryValue>petaGA_FormCategory_eNews</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Feedback Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Feedback</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Forward to a Friend Form</categoryName>
+				<categoryValue>petaGA_FormCategory_ForwardToAFriend</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Login Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Login</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Mobile Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Mobile</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Pack Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Pack</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Pledge Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Pledge</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Poll Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Poll</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Purchase Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Purchase</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Quiz Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Quiz</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Registration Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Registration</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Submission Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Submission</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Take Action Form</categoryName>
+				<categoryValue>petaGA_FormCategory_TakeAction</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Volunteer Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Volunteer</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<categoryName>Wishlist Form</categoryName>
+				<categoryValue>petaGA_FormCategory_Wishlist</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<categoryName>Game Categories</categoryName>
+		<categoryValue></categoryValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<categoryName>Game</categoryName>
+				<categoryValue>petaGA_GameCategory_Game</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<categoryName>Image Categories</categoryName>
+		<categoryValue></categoryValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<categoryName>Image</categoryName>
+				<categoryValue>petaGA_ImageCategory_Image</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<categoryName>Link Categories</categoryName>
+		<categoryValue></categoryValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<categoryName>Link</categoryName>
+				<categoryValue>petaGA_LinkCategory_Link</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<categoryName>PDF Categories</categoryName>
+		<categoryValue></categoryValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<categoryName>PDF</categoryName>
+				<categoryValue>petaGA_PDFCategory_PDF</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<categoryName>Slideshow Categories</categoryName>
+		<categoryValue></categoryValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<categoryName>Slideshow</categoryName>
+				<categoryValue>petaGA_SlideshowCategory_Slideshow</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<categoryName>User Generated Categories</categoryName>
+		<categoryValue></categoryValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<categoryName>User Generated Content</categoryName>
+				<categoryValue>petaGA_UserGeneratedContentCategory</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<categoryName>Video Categories</categoryName>
+		<categoryValue></categoryValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<categoryName>Video</categoryName>
+				<categoryValue>petaGA_VideoCategory_Video</categoryValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+</ga-categories>

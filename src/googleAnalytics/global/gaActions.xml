@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<ga-actions>
+	<item>
+		<actionName>Audio Actions</actionName>
+		<actionValue></actionValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<actionName>Download</actionName>
+				<actionValue>petaGA_GenericAction_Download</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>End</actionName>
+				<actionValue>petaGA_GenericAction_End</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Play</actionName>
+				<actionValue>petaGA_GenericAction_Play</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<actionName>E-Card Actions</actionName>
+		<actionValue></actionValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<actionName>Receipt/Pick-Up</actionName>
+				<actionValue>petaGA_GenericAction_Receipt</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Share</actionName>
+				<actionValue>petaGA_GenericAction_Share</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<actionName>Form Actions</actionName>
+		<actionValue></actionValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<actionName>Form Initiated</actionName>
+				<actionValue>petaGA_FormAction_Initiated</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Form Submitted</actionName>
+				<actionValue>petaGA_FormAction_Submitted</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<actionName>Game Actions</actionName>
+		<actionValue></actionValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<actionName>Complete</actionName>
+				<actionValue>petaGA_GenericAction_Complete</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Download</actionName>
+				<actionValue>petaGA_GenericAction_Download</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Play</actionName>
+				<actionValue>petaGA_GenericAction_Play</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Receipt/Pick-Up</actionName>
+				<actionValue>petaGA_GenericAction_Receipt</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Share</actionName>
+				<actionValue>petaGA_GenericAction_Share</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<actionName>Image Actions</actionName>
+		<actionValue></actionValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<actionName>Click Through</actionName>
+				<actionValue>petaGA_GenericAction_ClickThrough</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Download</actionName>
+				<actionValue>petaGA_GenericAction_Download</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<actionName>Link Actions</actionName>
+		<actionValue></actionValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<actionName>Click Through</actionName>
+				<actionValue>petaGA_GenericAction_ClickThrough</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Share</actionName>
+				<actionValue>petaGA_GenericAction_Share</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<actionName>PDF Actions</actionName>
+		<actionValue></actionValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<actionName>Download</actionName>
+				<actionValue>petaGA_GenericAction_Download</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<actionName>Slideshow Actions</actionName>
+		<actionValue></actionValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<actionName>Slideshow Auto-played</actionName>
+				<actionValue>petaGA_SlideshowAction_Auto</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Slideshow Backward</actionName>
+				<actionValue>petaGA_SlideshowAction_Backward</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Slideshow Forward</actionName>
+				<actionValue>petaGA_SlideshowAction_Forward</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Share</actionName>
+				<actionValue>petaGA_GenericAction_Share</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+	<item>
+		<actionName>User Generated Actions</actionName>
+		<actionValue></actionValue>
+		<isDropDownSection>true</isDropDownSection>		
+	</item>
+		<item>
+			<actionName>No Actions Yet</actionName>
+			<actionValue></actionValue>
+			<isDropDownSection>true</isDropDownSection>
+		</item>
+	<item>
+		<actionName>Video Actions</actionName>
+		<actionValue></actionValue>
+		<isDropDownSection>true</isDropDownSection>
+	</item>
+			<item>
+				<actionName>Download</actionName>
+				<actionValue>petaGA_GenericAction_Download</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>End</actionName>
+				<actionValue>petaGA_GenericAction_End</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Play</actionName>
+				<actionValue>petaGA_GenericAction_Play</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+			<item>
+				<actionName>Share</actionName>
+				<actionValue>petaGA_GenericAction_Share</actionValue>
+				<isDropDownSection>false</isDropDownSection>
+			</item>
+</ga-actions>
